@@ -16,7 +16,7 @@ The full set of semantic rules (type-inference rules) can be found <a href="http
 
 Definitely my favourite part of the compilation process was code generation. There wasn't any hand wavy algorithm that we could use for this portion, it was just identifying an optimal approach that we could use to generate MIPS code. The real challenge came when trying to optimize the code generation. In the end, the course challenged the students to reduce the size of the MIPS program that the compiler generates for a particular WLP4 program. Many optimization techniques were used like <a href="https://en.wikipedia.org/wiki/Constant_folding">Constant Folding, Constant Propogation</a>, <a href="https://en.wikipedia.org/wiki/Strength_reduction">Strength Reduction</a>, and <a href="https://en.wikipedia.org/wiki/Dead_code_elimination">Dead Code Elimination</a> just to name a few. In the end, I was able to get the bonus marks, as well as coming in third place.
 
-![Score Board](scoreboard-final.jpg)
-![Marmoset](proof-final.jpg)
+![Score Board](images/scoreboard-final.jpg)
+![Marmoset](images/proof-final.jpg)
 
 Was it worth the bonus marks though??? Probably not, but I absolutely enjoyed the challenge!
