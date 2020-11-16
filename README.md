@@ -1,6 +1,6 @@
 # 💻 WLP4 Compiler 💻
 The WLP4 Compiler was a compiler that implements scanning, parsing, context sensitive analysis, and code generation of WLP4 Code. The end product was to write a compiler that translates WLP4 code into MIPS assembly language. WLP4 is a subset of the C++ language, and includes functions, integers, pointers, arrays, conditional statements, and while loops.
-The source code for this program is kept secret because the compiler was built as a part of the CS241 course. Feel free to email me at <a href="bhagat.kush.a@gmail.com">bhagat.kush.a@gmail.com</a> to see it.
+**The source code for this program is kept secret because the compiler was built as a part of UWaterloo's <a href="https://student.cs.uwaterloo.ca/~cs241/">Foundations of Sequential Programs</a> course**. Feel free to email me at <a href="bhagat.kush.a@gmail.com">bhagat.kush.a@gmail.com</a> to see it.
 
 ---
 ## 🔧 Process to build the compiler
